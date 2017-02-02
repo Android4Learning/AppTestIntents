@@ -10,4 +10,5 @@ public class FrmIntents extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_frm_intents);
     }
+    //free line
 }
